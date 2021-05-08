@@ -1,0 +1,12 @@
+/Users/rook/Projects/Bitwise/Bitwise/bin/Debug/netcoreapp3.1/Bitwise.deps.json
+/Users/rook/Projects/Bitwise/Bitwise/bin/Debug/netcoreapp3.1/Bitwise.runtimeconfig.json
+/Users/rook/Projects/Bitwise/Bitwise/bin/Debug/netcoreapp3.1/Bitwise.runtimeconfig.dev.json
+/Users/rook/Projects/Bitwise/Bitwise/bin/Debug/netcoreapp3.1/Bitwise.dll
+/Users/rook/Projects/Bitwise/Bitwise/bin/Debug/netcoreapp3.1/Bitwise.pdb
+/Users/rook/Projects/Bitwise/Bitwise/obj/Debug/netcoreapp3.1/Bitwise.csprojAssemblyReference.cache
+/Users/rook/Projects/Bitwise/Bitwise/obj/Debug/netcoreapp3.1/Bitwise.AssemblyInfoInputs.cache
+/Users/rook/Projects/Bitwise/Bitwise/obj/Debug/netcoreapp3.1/Bitwise.AssemblyInfo.cs
+/Users/rook/Projects/Bitwise/Bitwise/obj/Debug/netcoreapp3.1/Bitwise.csproj.CoreCompileInputs.cache
+/Users/rook/Projects/Bitwise/Bitwise/obj/Debug/netcoreapp3.1/Bitwise.dll
+/Users/rook/Projects/Bitwise/Bitwise/obj/Debug/netcoreapp3.1/Bitwise.pdb
+/Users/rook/Projects/Bitwise/Bitwise/obj/Debug/netcoreapp3.1/Bitwise.genruntimeconfig.cache

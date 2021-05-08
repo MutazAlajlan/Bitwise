@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B7B9D99A-0446-4C1D-95B6-3157DBD152B3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Bitwise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bitwise/Program.cs">
+    <Files>
+      <File FileName="Bitwise/Program.cs" Line="68" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bitwise" expanded="True">
+            <Node name="Bitwise" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
